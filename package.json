@@ -1,0 +1,20 @@
+{
+  "name": "flexbox_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build ./www/index.html",
+    "start": "parcel ./www/index.html"
+  },
+  "dependencies": {
+    "css-loader": "^3.4.2",
+    "parcel-bundler": "^1.12.4",
+    "react": ">= 16.8.0",
+    "react-dom": ">= 16.8.0",
+    "react-is": ">= 16.8.0",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.25.0"
+  }
+}
